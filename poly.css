@@ -1,0 +1,31 @@
+.pull-right {
+    width: 70%;
+    height: 20%;
+    float: left;
+}
+.poly-cart{
+    margin-top: 5px;
+}
+
+.poly-cart ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    font-variant: small-caps;
+}
+
+.poly-cart .panel-heading strong {
+    font-variant: small-caps;
+    font-size: larger;
+    text-shadow: 0 0 2px darkgray;
+}
+
+.poly-prod{
+    text-align:center;
+    padding:5px;
+}
+
+.poly-prod .panel-body img{
+    height: 200px;
+    max-width: 95%;
+}
